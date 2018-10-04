@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOccRestClient", "TestOccRestClient\TestOccRestClient.csproj", "{D7A749FF-09E0-4B6E-9E28-9F73F877D3D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B32F4435-39AC-4604-A0B6-B18D363A9B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccRestClient", "OccRestClient\OccRestClient.csproj", "{379020A7-8C83-4F19-9B6F-43987F878314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A749FF-09E0-4B6E-9E28-9F73F877D3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A749FF-09E0-4B6E-9E28-9F73F877D3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A749FF-09E0-4B6E-9E28-9F73F877D3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A749FF-09E0-4B6E-9E28-9F73F877D3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379020A7-8C83-4F19-9B6F-43987F878314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379020A7-8C83-4F19-9B6F-43987F878314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379020A7-8C83-4F19-9B6F-43987F878314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379020A7-8C83-4F19-9B6F-43987F878314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F50D1671-1569-4BF9-950D-033447F88105}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
