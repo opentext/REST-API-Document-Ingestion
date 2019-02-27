@@ -7,8 +7,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Open Text")]
 [assembly: AssemblyProduct("Capture Center")]
-[assembly: AssemblyCopyright("Copyright © 2018 Open Text. All Rights Reserved.")]
-[assembly: AssemblyTrademark("Copyright © 2018 Open Text")]
+[assembly: AssemblyCopyright("Copyright © 2019 Open Text. All Rights Reserved.")]
+[assembly: AssemblyTrademark("Copyright © 2019 Open Text")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
@@ -17,4 +17,4 @@ using System.Runtime.InteropServices;
 
 // [assembly: AssemblyVersion("10.6.0.0")]
 [assembly: AssemblyVersion("10.6.0.0")]
-[assembly: AssemblyFileVersion("16.5.50.0")]
+[assembly: AssemblyFileVersion("16.4.642.0")]
